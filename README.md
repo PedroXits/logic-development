@@ -1,2 +1,2 @@
 # logic-development
-Soluções Area Tech Academy
+Soluções de exercícios de lógica de programação
